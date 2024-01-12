@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "FirstProject",
-    "slug": "FirstProject",
+    "name": "FocusFlow",
+    "slug": "FocusFlow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "backgroundColor": "#1e085a",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -21,10 +22,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sanjish.FocusFlow"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9fc1b981-ba7f-4e39-8e44-0b1732a59079"
+      }
     }
   }
 }
