@@ -25,4 +25,4 @@ FlowFocus is a simple and intuitive todo list app built with React Native and de
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flowfocus.git
+   git clone https://github.com/SanjishMaharjan/FlowFocus.git
